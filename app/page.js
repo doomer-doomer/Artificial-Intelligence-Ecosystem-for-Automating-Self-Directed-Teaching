@@ -31,7 +31,7 @@ export default function Home() {
       bio: "Dr. John Doe is a Senior Research Scientist specializing in Large Language Models and Educational Technology. With over 15 years of experience in AI research, he has published numerous papers on machine learning applications in education.",
       expertise: ["Machine Learning", "Self Learning", "Natural Language Processing", "Logic Programming"],
       email: "gotavadetejas2122@ternaengg.ac.in",
-      website: "johndoe.research"
+      website: "artificial-intelligence-ecosystem-for-au-doomerdoomers-projects.vercel.app"
     },
     
   ];
