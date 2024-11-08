@@ -28,7 +28,7 @@ export default function Home() {
       name: "Tejas Satish Gotavade",
       role: "Computer Engineer",
       affiliation: "Terna Engineering College",
-      bio: "Dr. John Doe is a Senior Research Scientist specializing in Large Language Models and Educational Technology. With over 15 years of experience in AI research, he has published numerous papers on machine learning applications in education.",
+      bio: "I am a Computer Engineer specializing in Large Language Models and Educational Technology. My research interests include Machine Learning, Self Learning, Natural Language Processing, and Logic Programming. I am passionate about leveraging AI to enhance educational frameworks and promote self-directed learning." ,
       expertise: ["Machine Learning", "Self Learning", "Natural Language Processing", "Logic Programming"],
       email: "gotavadetejas2122@ternaengg.ac.in",
       website: "artificial-intelligence-ecosystem-for-au-doomerdoomers-projects.vercel.app"
