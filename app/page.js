@@ -31,7 +31,7 @@ export default function Home() {
       bio: "I am a Computer Engineer specializing in Large Language Models and Educational Technology. My research interests include Machine Learning, Self Learning, Natural Language Processing, and Logic Programming. I am passionate about leveraging AI to enhance educational frameworks and promote self-directed learning." ,
       expertise: ["Machine Learning", "Self Learning", "Natural Language Processing", "Logic Programming"],
       email: "gotavadetejas2122@ternaengg.ac.in",
-      website: "artificial-intelligence-ecosystem-for-au-doomerdoomers-projects.vercel.app"
+      website: "artificial-intelligence-ecosy-git-7fb93a-doomerdoomers-projects.vercel.app"
     },
     
   ];
